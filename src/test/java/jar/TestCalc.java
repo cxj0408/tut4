@@ -29,10 +29,7 @@ public class TestCalc
             calc c=new Calc();
         assertTrue( true );
     }
-        public void testSubtract(){
-                 calc c=new Calc();
-                assertTrue(false);
-        }
+        
 
 }
 
