@@ -26,7 +26,7 @@ public class TestCalc
      */
     public void testCalc()
     {
-            calc c=new Calc();
+             
         assertTrue( true );
     }
         
