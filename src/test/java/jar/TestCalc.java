@@ -26,8 +26,13 @@ public class TestCalc
      */
     public void testCalc()
     {
-        assertTrue( false );
+            calc c=new Calc();
+        assertTrue( true );
     }
+        public void testSubtract(){
+                 calc c=new Calc();
+                assertTrue(false);
+        }
 
 }
 
